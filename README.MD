@@ -69,4 +69,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Gustavo (https://explorer-food.onrender.com)
+Feito com ♥ by Gustavo (https://explorerfood-bygustavo.netlify.app/)
